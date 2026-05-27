@@ -1,1 +1,0 @@
-{"flight_manifest":[{"drone_id":"drone_1","path":[{"x":100.0,"y":100.0,"t":0.0,"action":"PICKUP","delivery_ids":["d1"]},{"x":100.0,"y":100.0,"t":100.0,"action":"WAIT"},{"x":50.0,"y":50.0,"t":170.71,"action":"DELIVER","delivery_id":"d1"},{"x":78.5,"y":78.5,"t":211.02,"action":"WAYPOINT"},{"x":100.0,"y":100.0,"t":241.42,"action":"RETURN"}]}]}

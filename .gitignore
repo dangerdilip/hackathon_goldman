@@ -1,0 +1,13 @@
+*.class
+*.jar
+*.json
+*.log
+__pycache__/
+chatgpt/
+claude/
+gemini/
+*.txt
+3rd_question
+my_output_*
+output_*
+temp_*
